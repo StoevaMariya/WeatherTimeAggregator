@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherTimeAggregator", "WeatherTimeAggregator\WeatherTimeAggregator.csproj", "{EE058C26-8EC1-4915-B7C9-FF3CF7EE19D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE058C26-8EC1-4915-B7C9-FF3CF7EE19D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE058C26-8EC1-4915-B7C9-FF3CF7EE19D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE058C26-8EC1-4915-B7C9-FF3CF7EE19D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE058C26-8EC1-4915-B7C9-FF3CF7EE19D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33B2F527-E080-48F9-8A29-7E18DE7B54C6}
+	EndGlobalSection
+EndGlobal

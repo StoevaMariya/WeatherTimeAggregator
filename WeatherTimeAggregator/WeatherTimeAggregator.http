@@ -1,0 +1,6 @@
+@WeatherTimeAggregator_HostAddress = http://localhost:5156
+
+GET {{WeatherTimeAggregator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
